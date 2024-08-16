@@ -3,11 +3,8 @@ Welcome to the WhatsApp Chat Analyzer! This project is designed to provide you w
 
 ## 🚀 Features
 Comprehensive Analysis: Gain detailed statistics such as message counts, most active users, and word frequencies.
-
 Interactive Visualizations: Beautifully crafted charts and graphs to visualize your chat data.
-
 Sentiment Analysis: Understand the overall sentiment of your conversations.
-
 Exportable Reports: Easily export your analysis into shareable formats.
 
 ## 🛠️ Installation
@@ -32,6 +29,7 @@ python app.py
 Upload Chat Data: Export your WhatsApp chat history and upload the file through the application interface.
 View Insights: Explore various metrics and visualizations generated from your chat data.
 Analyze Trends: Dive deep into conversation patterns, peak activity times, and more.
+
 ## 🧠 How It Works
 Data Preprocessing: The chat data is cleaned and structured for analysis.
 Analysis Engine: Leveraging natural language processing (NLP) techniques to extract valuable insights.
