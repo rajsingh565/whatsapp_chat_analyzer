@@ -36,6 +36,6 @@ Visualization: The results are displayed using intuitive and interactive visuali
 ##🛡️ Security
 Your privacy is paramount. This tool processes your chat data locally on your machine, ensuring that your information remains private and secure.
 
-🤝 Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
+## 🤝 Contributing
+  Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
