@@ -42,5 +42,5 @@ Your privacy is paramount. This tool processes your chat data locally on your ma
 
 ## ⭐ Show Your Support
 
-If you like this repository, please don't forget to give it a ⭐ star!
+If you like this repository, please don't forget to give it a ⭐.
 
