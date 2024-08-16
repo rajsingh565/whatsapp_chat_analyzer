@@ -12,12 +12,12 @@ Follow these steps to set up the WhatsApp Chat Analyzer on your local machine:
 
 ### 1.Clone the Repository:
 ```
-  git clone https://github.com/rajsingh565/whatsapp_chat_analyzer.git
+git clone https://github.com/rajsingh565/whatsapp_chat_analyzer.git
 ```
 
 ### 2.Install Dependencies:
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3.Run the Application:
