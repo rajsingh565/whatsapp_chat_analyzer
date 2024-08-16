@@ -3,8 +3,11 @@ Welcome to the WhatsApp Chat Analyzer! This project is designed to provide you w
 
 ## 🚀 Features
 Comprehensive Analysis: Gain detailed statistics such as message counts, most active users, and word frequencies.
+
 Interactive Visualizations: Beautifully crafted charts and graphs to visualize your chat data.
+
 Sentiment Analysis: Understand the overall sentiment of your conversations.
+
 Exportable Reports: Easily export your analysis into shareable formats.
 
 ## 🛠️ Installation
