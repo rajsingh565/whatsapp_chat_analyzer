@@ -34,7 +34,7 @@ Data Preprocessing: The chat data is cleaned and structured for analysis.
 Analysis Engine: Leveraging natural language processing (NLP) techniques to extract valuable insights.
 Visualization: The results are displayed using intuitive and interactive visualizations.
 
-##🛡️ Security
+## 🛡️ Security
 Your privacy is paramount. This tool processes your chat data locally on your machine, ensuring that your information remains private and secure.
 
 ## 🤝 Contributing
