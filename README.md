@@ -7,10 +7,10 @@ Interactive Visualizations: Beautifully crafted charts and graphs to visualize y
 Sentiment Analysis: Understand the overall sentiment of your conversations.
 Exportable Reports: Easily export your analysis into shareable formats.
 
-### 🛠️ Installation
+# 🛠️ Installation
 Follow these steps to set up the WhatsApp Chat Analyzer on your local machine:
 
-### 1.Clone the Repository:
+# 1.Clone the Repository:
 ```
   git clone https://github.com/rajsingh565/whatsapp_chat_analyzer.git
 ```
